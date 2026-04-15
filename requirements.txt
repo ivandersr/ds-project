@@ -2,3 +2,6 @@ pandas
 seaborn
 openpyxl
 pyarrow
+kaggle
+bs4
+pydantic
