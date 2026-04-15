@@ -5,3 +5,5 @@ pyarrow
 kaggle
 bs4
 pydantic
+faker
+cryptography
